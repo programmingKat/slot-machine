@@ -56,3 +56,7 @@ slot-machine/
 - Disable betting once the wallet balance reaches $0
 - Add a spin animation for the reels
 - Add a running win/loss history
+
+  <img width="426" height="240" alt="Video Project" src="https://github.com/user-attachments/assets/d74fa980-852f-4bdf-8f7d-b36bff41fc4e" />
+
+
