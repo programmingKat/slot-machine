@@ -14,7 +14,7 @@ A simple browser-based slot machine game built with vanilla HTML, CSS, and JavaS
 
 ## How to Play
 
-1. Open `index.html` in your browser.
+1. Check out the [game here](https://programmingkat.github.io/slot-machine/).
 2. Enter a bet amount between $5 and $50 (or use the **$5** / **$50** quick-bet buttons).
 3. Click **Place bet!** to spin the reels.
 4. Match all three reels to win 3x your bet — otherwise, better luck next time!
